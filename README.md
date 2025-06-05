@@ -32,8 +32,8 @@
 | [Sales Dashboard](https://github.com/NANDINI_SHIVAPPA/Sales-Analysis-Project) | Power BI dashboard sales data analysis | Power BI |Python & Colab notebook
 | [Zomato Restaurant Analysis](https://github.com/NANDINI_SHIVAPPA/Zomato-Restaurant-Analysis-Colab) | Colab notebook analyzing| Python, Colab |
 | [HR Analytics Dashboard](https://github.com/NANDINI_SHIVAPPA/HR-Analytics-PBI) | HR data analyzed and visualized in Power BI | Power BI, Excel |
-| [AirBnB Analysis].(https://github.com/NANDINI_SHIVAPPA/AirBnB-Analysis-Colab). | Colab notebook Analysing | Python, Colab |
-| [Amazon Sales Data Analysis].(https://github.com/NANDINI_SHIVAPPA/Amazon-Sales-Data-Analysis) | Colab notebook Analysis | Python, Colab |
+| [AirBnB Analysis](https://github.com/NANDINI_SHIVAPPA/AirBnB-Analysis-Colab). | Colab notebook Analysing | Python, Colab |
+| [Amazon Sales Data Analysis](https://github.com/NANDINI_SHIVAPPA/Amazon-Sales-Data-Analysis) | Colab notebook Analysis | Python, Colab |
 
 ---
 
