@@ -29,9 +29,11 @@
 
 | Project Name | Description | Tools |
 |--------------|-------------|-------|
-| [Sales Dashboard](https://github.com/YOUR_USERNAME/Sales-Analysis-Project) | Power BI dashboard with 3-month sales data analysis | Power BI |
-| [Customer Churn Analysis](https://github.com/YOUR_USERNAME/Customer-Churn-Colab) | Python & Colab notebook analyzing customer churn | Python, Colab |
-| [HR Analytics Dashboard](https://github.com/YOUR_USERNAME/HR-Analytics-PBI) | HR data analyzed and visualized in Power BI | Power BI, Excel |
+| [Sales Dashboard](https://github.com/NANDINI_SHIVAPPA/Sales-Analysis-Project) | Power BI dashboard sales data analysis | Power BI |Python & Colab notebook
+| [Zomato Restaurant Analysis](https://github.com/NANDINI_SHIVAPPA/Zomato-Restaurant-Analysis-Colab) | Colab notebook analyzing| Python, Colab |
+| [HR Analytics Dashboard](https://github.com/NANDINI_SHIVAPPA/HR-Analytics-PBI) | HR data analyzed and visualized in Power BI | Power BI, Excel |
+| [AirBnB Analysis].(https://github.com/NANDINI_SHIVAPPA/AirBnB-Analysis-Colab). | Colab notebook Analysing | Python, Colab |
+| [Amazon Sales Data Analysis].(https://github.com/NANDINI_SHIVAPPA/Amazon-Sales-Data-Analysis) | Colab notebook Analysis | Python, Colab |
 
 ---
 
