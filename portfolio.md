@@ -48,7 +48,7 @@
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/nandini-shivappa0413)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nandini-shivappa0413/)
 - 💌 Email: nandinishivappa147@email.com  
 - 📁 [Resume or Portfolio Website]()
 
