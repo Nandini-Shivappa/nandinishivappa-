@@ -8,7 +8,7 @@
 ###  About Me
 
 -  I'm passionate about extracting insights from data to solve real-world problems  
--  I work with tools like **Power BI, Python, SQL, and Google Colab**  
+-  I work with tools like **Power BI, Excel, Python, SQL, and Google Colab**  
 -  Currently building projects to strengthen my **data storytelling and dashboarding** skills  
 -  Learning **advanced data visualization** and predictive analytics  
 -  Open to internships, projects, and freelance opportunities  
