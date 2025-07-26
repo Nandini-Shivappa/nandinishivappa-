@@ -29,11 +29,11 @@
 
 | Project Name | Description | Tools |
 |--------------|-------------|-------|
-| [Sales Dashboard](https://github.com/NANDINI_SHIVAPPA/Sales-Analysis-Project) | Power BI dashboard sales data analysis | Google Colab, Power BI |Python & Colab notebook |
-| [Zomato Restaurant Analysis](https://github.com/NANDINI_SHIVAPPA/Zomato-Restaurant-Analysis-Colab) | Colab notebook analyzing| Python, Colab |
-| [HR Analytics Dashboard](https://github.com/NANDINI_SHIVAPPA/HR-Analytics-PBI) | HR data analyzed and visualized in Power BI | Power BI |
-| [AirBnB Analysis](https://github.com/NANDINI_SHIVAPPA/AirBnB-Analysis-Colab). | Colab notebook Analysing | Python, Colab | 
-| [Amazon Sales Data Analysis](https://github.com/NANDINI_SHIVAPPA/Amazon-Sales-Data-Analysis) | Colab notebook Analysis | Python, Colab |
+| [Sales Dashboard](https://github.com/Nandini-Shivappa/Sales-Analysis-Dashboard-) | Power BI dashboard sales data analysis | Google Colab, Power BI |Python & Colab notebook |
+| [Zomato Restaurant Analysis](https://github.com/Nandini-Shivappa/Zomato-Restaurant-Sales-Analysis-) | Colab notebook analyzing| Python, Colab |
+| [HR Analytics Dashboard](https://github.com/Nandini-Shivappa/HR-Data-Analysis-) | HR data analyzed and visualized in Power BI | Power BI |
+| [AirBnB Analysis](https://github.com/Nandini-Shivappa/AirBnB-Data-Analysis-). | Colab notebook Analysing | Python, Colab | 
+| [Amazon Sales Data Analysis](https://github.com/Nandini-Shivappa/Amazon-Sales-Data-Analysis-) | Colab notebook Analysis | Python, Colab |
 | [Spotify Songs Data Analysis](https://github.com/Nandini-Shivappa/Spotify-Data-Analysis-using-Python-) | Python | Google Colab |
 | [COVID-19 Data Download and Analysis](https://github.com/Nandini-Shivappa/Covid_19_data_download_and_analysis-) | Python | Colab Notebook Analyzing |
 | [Stock Market Analysis](https://github.com/Nandini-Shivappa/Stock-Market-Analysis-) | Colab Notebook Analysis | Colab, Python |
