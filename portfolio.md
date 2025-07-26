@@ -46,11 +46,11 @@
 | [Credit Card Weekly Sales Report](https://github.com/Nandini-Shivappa/Credit-Card-Sales-Report-) | Credit Card Data Analysis in Power BI | Power BI, DAX |
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nandini-shivappa0413/)
-- 💌 Email: nandinishivappa147@email.com  
-- 📁 [Resume or Portfolio Website]()
+-  [LinkedIn](https://www.linkedin.com/in/nandini-shivappa0413/)
+-  Email: nandinishivappa147@email.com  
+-  [Resume or Portfolio Website]()
 
 ---
 
